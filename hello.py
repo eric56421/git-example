@@ -5,4 +5,4 @@ Try to use and learn github.
 Hope it works.
 """
 
-print("Hello python & Git")
+print("Hello python & Git rock")
